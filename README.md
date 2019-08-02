@@ -1,7 +1,7 @@
 # IntentTraActivity
 
 ## Esempi base per la creazione di App Android tramite Android Studio in linguaggio Java:  
-## _**Utilizzo degli INTENT tra le varie activity dell'applicazione**_ 
+## _-Utilizzo degli INTENT tra le varie activity dell'applicazione-_ 
 A fine pagina troverete i link per raggiungere velocemente il codice e i file principali del progetto.  
   
 * ### IN QUESTO ESEMPIO si vuole:  
@@ -17,7 +17,7 @@ A fine pagina troverete i link per raggiungere velocemente il codice e i file pr
 3. Da Main2Activity e Main3Activity posso tornare a MainActivity tramite il tasto Home.  
   
 * ### LINK AL CODICE E AI FILE PRINCIPALI:
-  * Il codice principale del progetto si trova in-  
+  *Il codice principale del progetto si trova in:  
 [IntentTraActivity / app / src /main/](https://github.com/oscarpell/IntentTraActivity/tree/master/app/src/main)  
   
   * Il codice del Manifest.xml si trova in:  
