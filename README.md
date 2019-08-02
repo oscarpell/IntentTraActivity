@@ -2,6 +2,9 @@
 
 Esempi base per la creazione di App Android tramite Android Studio in linguaggio Java. 
 
+Il codice principale del progetto si trova in:  
+IntentTraActivity / app / src /main/  
+  
 IN QUESTO ESEMPIO si vuole:  
 1)Passare da una pagina (Activity) all'altra della nostra applicazione tramite un INTENT.  
 2)Passare alcuni parametri tramite INTENT. (passeremo un numero casuale, RANDOM)  
